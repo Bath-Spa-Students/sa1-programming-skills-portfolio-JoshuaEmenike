@@ -1,0 +1,6 @@
+#Concatenation
+List_j =[12,3,4,5,26]
+List_q=[9,82,37,46,5]
+
+List_3=List_j + List_q
+print (List_3)
